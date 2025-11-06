@@ -40,12 +40,18 @@ This project includes the following tasks:
 
 <br />
 
-<h2>Description of files</h2>
+<h2>Learning Outcomes</h2>
 
-- This is the actual step by step actions I took to complete the project from beginning to end. 
-- These are not instructions but the actual steps I took. Doing screen shots as I went along.
-- I would go back time and time again making sure I captured all my work...
-
+- Reverse engineer unknown binary (executable) files using static and dynamic analysis.
+- Conduct open-source intelligence.
+- Exploit server and application software using buffer overflow exploits and return-oriented programming.
+- Exploit database systems using SQL injection.
+- Develop custom shellcode exploits.
+- Evade antivirus software.
+- Spearphish a trusting victim
+- Plan and conduct a complex cyber-attack.
+- Pivot through a network
+- Exfiltrate data
 
 
 <br />
@@ -63,4 +69,12 @@ This project includes the following tasks:
 - PSEXEC – penetration testing
 - Python – miscellaneous scripting
 
+
+<br />
+
+<h2>Description of files</h2>
+
+- This is the actual step by step actions I took to complete the project from beginning to end. 
+- These are not instructions but the actual steps I took. Doing screen shots as I went along.
+- I would go back time and time again making sure I captured all my work...
 
