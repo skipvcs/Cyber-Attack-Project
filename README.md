@@ -1,46 +1,47 @@
 # Cyber-Attack-Project
-Cyber Attack focuses on key offensive skills
+Focusing in on key offensive skills
 
 <h2>Description</h2>
 
 This project includes the following tasks:
-1.	Reverse engineer a suspicious file:
-   - Students analyze a suspicious binary file from a laptop confiscated from a cyber-crime scene. They learn how to use basic reverse engineering to crack a password-protected binary so they can run the program and gain access to a cybercrime group’s Internet Relay Chat (IRC) channel. They then eavesdrop on online conversations and start compiling intelligence on the crime group’s actors and connections.
-     
-2.	Reverse Engineer a complex suspicious file:
-   - Students now reverse engineer a more complex binary confiscated from a ransomware attacker’s computer. This time, they must crack an encrypted password to gain access to another protected IRC channel, which yields login credentials for the crime group’s FTP server.
-     
-3.	Reverse Engineer a still more complex suspicious file:
-   - Students must now reverse engineer a binary and crack a doubly encrypted password in order to access a file that identifies the website of a small defense contractor that is vulnerable to a local file inclusion exploit and was also infected with malware by the crime group or another actor.
-     
-4.	Investigate hacker group:
-   - Students infiltrate a Russian cyber-crime network by logging into an eastern European social media site using stolen credentials. They mask themselves as a member of the Russian crime group and gather intelligence about the group members and their connections from the posts on the social media site (which is a facsimile of the Russian “Facebook” site VK.ru filled with authentic posts in Russian). Students also develop a realistic persona which they will use while undercover within the group.
+1.	Analyze a recovered binary:
+- Examine a password-protected binary recovered during an investigation. Apply approved reverse-engineering techniques to obtain access credentials and document any communications or artifacts that reveal the group’s structure and relationships.
 
-5.	Exploit a server:
-   - The student goes undercover to infiltrate the cyber-crime group. The crime group’s leader asks students to execute a remote buffer overflow exploit on a vulnerable server to prove their worth to the crime group they are infiltrating. The student’s government boss permits them to perform this exploit in order to strengthen the relationship with the crime group so they can continue gathering important intel about them. The student’s attack provides the crime group a persistent foothold on the targeted computer.
- 
-6.	Exploit a better protected computer:
-   - The crime group now asks the students to strengthen their last exploit because a recompilation of the server’s code has apparently turned-on data execution prevention (DEP). They need to re-implement the exploit using return-oriented programming (ROP) so it works well in the altered environment.
-     
-7.	Improve off-the-shelf malware:
-   -The student’s boss explains that “off-the-shelf“ Metasploit payloads (which students have been using until now) are typically recognized by most antivirus software. He asks the students to experiment with a variety of ways to obscure such payloads to evade detection.
+2.	Analyze a more complex binary:
+- Investigate a second, higher-complexity executable from a ransomware actor. Recover encrypted credentials that expand access to the group’s auxiliary infrastructure and record evidentiary details.
 
-8.	Write your own shellcode payload:
-   - The Russian hacker group asks the students to design a custom payload for them. Students must deliver working shellcode that deletes Windows security logs.
-     
-9.	Spearphish a company:
-   - The crime group asks the students, working undercover, to gain access into a defense contractor’s network through a spearphishing attack on an HR person’s machine. Posing as a job applicant, students create a fake persona and resume, which is infected with a custom payload, reply to the job posting, infect the HR person’s machine, and gain a persistent foothold in the company’s network.
-     
-10.	Hack a database and exfiltrate data:
-   - Working undercover in the crime group and using the persistent foothold gained on an HR person’s machine, students access the company’s personnel database using SQL injection and exfiltrate data (which is scrubbed before passing it on to the crime group).
-     
-11.	Hack a foreign intelligence service:
-   - Human intelligence determines that the cyber-crime group is connected to a Russian security agency. On behalf of the US government, students spearphish the leader of the crime group, use a keylogger to obtain his login credentials, and then surreptitiously log into his computer. Using access provided by the crime boss’s computer, they then gain a foothold on a Russian intelligence officer’s machine. Students exploit a vulnerability in a Python framework to gain access to a C2 database of classified information from which they exfiltrate a key document.
+3.	Analyze an advanced, multi-layered binary:
+- Deconstruct a heavily protected executable containing nested protections. Extract the intelligence that identifies a potentially vulnerable third-party site and any links to prior compromises.
+  
+4.	Infiltrate and profile an online network:
+- Using intelligence-derived credentials, access a regional social platform used by the threat actors. Operate under an approved cover identity to collect open-source behavioral and network indicators, and map relationships.
+  
+5.	Conduct an authorized capability demonstration against a target server:
+- Execute a sanctioned exploit on a controlled test server to validate offensive tradecraft and build operational credibility within the simulation. Capture technical and behavioral data to support follow-on analysis.
+  
+6.	Adapt an exploit to hardened defenses:
+- Update the prior capability to function in an environment with additional mitigations enabled. Validate the adapted approach in an authorized testbed and document differences in behavior and detection.
+  
+7.	Assess and evaluate commodity payload characteristics:
+- Analyze commonly used payloads for detection characteristics. Experiment with benign obfuscation approaches in a controlled environment to understand defensive signatures and improve defensive detection guidance.
+  
+8.	Develop a bespoke payload for test objectives:
+- Design and test a custom, narrowly scoped payload within an approved lab environment to meet specific simulation objectives, ensuring all activities are contained and auditable.
+  
+9.	Execute a targeted social engineering exercise:
+- Carry out a controlled spearphishing engagement against a simulated corporate target to evaluate human-factor vulnerabilities. Use a realistic cover persona and document the attack chain and lessons learned.
+  
+10.	Test data-access vectors and exfiltration controls:
+- Using established, authorized access within the simulation, assess database access controls and data exfiltration paths. Sanitize and handle any extracted data according to legal and policy requirements.
+  
+11.	Investigate links to external intelligence entities:
+- Pursue corroborating evidence that ties the criminal network to state-linked actors through approved investigative methods. Use sanctioned access paths in test environments to validate attribution hypotheses and report findings.
+
 
 
 <br />
 
-<h2>Learning Outcomes</h2>
+<h2>Objectives Accomplished</h2>
 
 - Reverse engineer unknown binary (executable) files using static and dynamic analysis.
 - Conduct open-source intelligence.
@@ -74,7 +75,7 @@ This project includes the following tasks:
 
 <h2>Description of files</h2>
 
-- This is the actual step by step actions I took to complete the project from beginning to end. 
+- These are the actual step by step actions I took to complete the project from beginning to end. 
 - These are not instructions but the actual steps I took. Doing screen shots as I went along.
 - I would go back time and time again making sure I captured all my work...
 
