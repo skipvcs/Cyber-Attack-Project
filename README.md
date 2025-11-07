@@ -75,7 +75,7 @@ This project includes the following tasks:
 
 <h2>Description of files</h2>
 
-- These are the actual step by step actions I took to complete the project from beginning to end. 
+- These are the actual step by step actions I took in each of the tasks (1 - 11)to complete the project from beginning to end. 
 - These are not instructions but the actual steps I took. Doing screen shots as I went along.
 - I would go back time and time again making sure I captured all my work...
 
