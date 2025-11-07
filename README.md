@@ -57,7 +57,7 @@ This project includes the following tasks:
 
 <br />
 
-<h2>Tools Used</h2>
+<h2>🛠 Tools Used</h2>
 
 - Ida Pro – reverse engineering
 - Relyze – reverse engineering
@@ -77,5 +77,4 @@ This project includes the following tasks:
 
 - These are the actual step by step actions I took in each of the tasks (1 - 11) to complete the project from beginning to end. 
 - These are not instructions but the actual steps I took. Doing screen shots as I went along.
-- I would go back time and time again making sure I captured all my work...
 
